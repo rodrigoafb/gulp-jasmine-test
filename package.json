@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.2.1",
+    "gulp-jasmine-browser": "^1.0.0",
+    "gulp-jasmine-phantom": "^2.1.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5"
+  }
+}
